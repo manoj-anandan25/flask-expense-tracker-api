@@ -19,7 +19,7 @@ You can add, view, update, delete, and partially update expense records.
 
 flask-expense-tracker-api/
 │── expense\_tracker.py   # Main Flask app
-│── expense\_sdk.py       # Python SDK to interact with the API
+│── expense\_SDK.py       # Python SDK to interact with the API
 │── requirements.txt     # Python dependencies
 │── README.md            # Documentation
 │── data.db              # SQLite database (auto-created)
