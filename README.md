@@ -1,5 +1,5 @@
 ## Flask Expense Tracker API
-jfghhhghgkkgjgjj
+jfghhhghgkkgjgjj...........................................
 A simple REST API built with Flask and SQLite to track expenses.  
 You can add, view, update, delete, and partially update expense records.
 
